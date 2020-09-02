@@ -3,6 +3,7 @@
 // Developer:				Chandler Fink
 // Date Written:			8/23/2020
 // Purpose:					Bid Creator and Ohm's Law Solver
+// Github:					Test comment
 // ---------------------------------------------------------------
 
 #include "Menu.h"
